@@ -1,0 +1,19 @@
+{
+  "name": "swapi-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hernang87/js-excercises.git"
+  },
+  "author": "Hernan Garchtrom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hernang87/js-excercises/issues"
+  },
+  "homepage": "https://github.com/hernang87/js-excercises#readme"
+}
